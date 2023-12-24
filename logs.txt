@@ -1,0 +1,29 @@
+commit 6ea55c30ef1d417cb848846cad49194431df02a1
+Author: marcosmelo <marcos.dhl@hotmail.com>
+Date:   Sun Dec 24 16:14:09 2023 -0300
+
+    mudana no index e gitignore
+
+commit da9dda5a89e50734834dba04e19f294e5c083a4b
+Author: marcosmelo <marcos.dhl@hotmail.com>
+Date:   Sun Dec 24 15:24:28 2023 -0300
+
+    limite 80
+
+commit 5e01409e9bd70f012d4c7062a840ce5625fee275
+Author: marcosmelo <marcos.dhl@hotmail.com>
+Date:   Sun Dec 24 15:07:50 2023 -0300
+
+    limite para 50
+
+commit cd13b7b699a44db5df4da045dd4ba7d3699f7f97
+Author: marcosmelo <marcos.dhl@hotmail.com>
+Date:   Sun Dec 24 14:56:56 2023 -0300
+
+    Limite para 100
+
+commit 3131bcaf0703ea9291f65e5effea4dce7623b261
+Author: marcosmelo <marcos.dhl@hotmail.com>
+Date:   Sun Dec 24 14:46:41 2023 -0300
+
+    Projeto Inicial
